@@ -1,13 +1,33 @@
-# Small Office Network Project
+# Network Portfolio (Cisco Packet Tracer)
 
-## Description
-Designed VLAN-based office network using Cisco Packet Tracer.
+## 👨‍💻 Student
+ICT Networking Student
 
-## Features
-- VLAN segmentation
+---
+
+## 🟢 Projects
+
+### Project 1: Small Office Network
+- VLAN configuration
 - Router-on-a-stick
 - Inter-VLAN routing
-- IP addressing
 
-## Skills Used
-Cisco Packet Tracer, Networking, VLAN, Routing
+### Project 2: DHCP + DNS + Web Server Network
+- Automatic IP assignment (DHCP)
+- Domain name system (DNS)
+- Internal web server hosting
+
+---
+
+## 🧠 Skills Demonstrated
+- Cisco Packet Tracer
+- VLANs
+- Routing
+- DHCP
+- DNS
+- Networking troubleshooting
+
+---
+
+## 📌 Purpose
+This repository is created for internship applications and networking portfolio development.
